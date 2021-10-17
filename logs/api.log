@@ -1,0 +1,594 @@
+17-10-2021 12:59:40.412 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+17-10-2021 12:59:40.413 [Gauge] [INFO] Initializing specs cache with 1 specs
+17-10-2021 12:59:40.414 [Gauge] [DEBUG] Adding specs from C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 12:59:40.414 [Gauge] [INFO] Initializing steps cache with 1 steps
+17-10-2021 12:59:40.414 [Gauge] [INFO] Gauge daemon initialized and listening on port: 53830
+17-10-2021 12:59:40.415 [Gauge] [DEBUG] Watching directory: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs
+17-10-2021 12:59:40.416 [Gauge] [DEBUG] Found 1 files
+17-10-2021 12:59:40.899 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Anasayfanin acildigi gorulur"}
+17-10-2021 12:59:40.900 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Anasayfanin acildigi gorulur" parameterizedStepValue:"Anasayfanin acildigi gorulur"}}
+17-10-2021 12:59:51.151 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* * Anasayfanin acildigi gorulur"}
+17-10-2021 12:59:51.152 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* * Anasayfanin acildigi gorulur" parameterizedStepValue:"* * Anasayfanin acildigi gorulur"}}
+17-10-2021 13:02:57.850 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* Anasayfanin acildigi gorulur"}
+17-10-2021 13:02:57.851 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* Anasayfanin acildigi gorulur" parameterizedStepValue:"* Anasayfanin acildigi gorulur"}}
+17-10-2021 13:14:41.955 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Giris yap butonuna tiklanir"}
+17-10-2021 13:14:41.956 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Giris yap butonuna tiklanir" parameterizedStepValue:"Giris yap butonuna tiklanir"}}
+17-10-2021 13:14:50.452 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:14:50.464 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:14:51.620 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:14:51.621 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:14:51.828 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 13:14:51.828 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 13:14:53.811 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+17-10-2021 13:14:53.812 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Anasayfanin acildigi gorulur" parameterizedStepValue:"Anasayfanin acildigi gorulur"}}
+17-10-2021 13:14:53.815 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+17-10-2021 13:14:53.815 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+17-10-2021 13:15:36.261 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:15:36.271 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:15:37.363 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:15:37.363 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:21:40.467 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Logi acildigi gorulur"}
+17-10-2021 13:21:40.467 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Logi acildigi gorulur" parameterizedStepValue:"Logi acildigi gorulur"}}
+17-10-2021 13:21:42.316 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Login sayfasi acildigi gorulur"}
+17-10-2021 13:21:42.316 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Login sayfasi acildigi gorulur" parameterizedStepValue:"Login sayfasi acildigi gorulur"}}
+17-10-2021 13:21:43.398 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Login sayfasinin acildigi gorulur"}
+17-10-2021 13:21:43.399 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Login sayfasinin acildigi gorulur" parameterizedStepValue:"Login sayfasinin acildigi gorulur"}}
+17-10-2021 13:23:24.780 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:23:24.790 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:23:25.645 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 13:23:25.646 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 13:23:25.864 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:23:25.864 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:23:25.892 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+17-10-2021 13:23:25.892 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Anasayfanin acildigi gorulur" parameterizedStepValue:"Anasayfanin acildigi gorulur"} allSteps:{stepValue:"Giris yap butonuna tiklanir" parameterizedStepValue:"Giris yap butonuna tiklanir"}}
+17-10-2021 13:23:25.892 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+17-10-2021 13:23:25.892 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+17-10-2021 13:23:30.615 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:23:30.624 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:23:31.771 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:23:31.771 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:26:51.104 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Email alaninda <key> yazilir"}
+17-10-2021 13:26:51.105 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Email alaninda {} yazilir" parameterizedStepValue:"Email alaninda <key> yazilir" parameters:"key"}}
+17-10-2021 13:27:23.624 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:27:23.633 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:27:24.501 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 13:27:24.501 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 13:27:24.651 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+17-10-2021 13:27:24.651 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Anasayfanin acildigi gorulur" parameterizedStepValue:"Anasayfanin acildigi gorulur"} allSteps:{stepValue:"Giris yap butonuna tiklanir" parameterizedStepValue:"Giris yap butonuna tiklanir"} allSteps:{stepValue:"Login sayfasinin acildigi gorulur" parameterizedStepValue:"Login sayfasinin acildigi gorulur"}}
+17-10-2021 13:27:24.652 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+17-10-2021 13:27:24.652 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+17-10-2021 13:27:24.799 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:27:24.799 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:27:26.396 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Email alaninda \"key\" yazilir"}
+17-10-2021 13:27:26.396 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Email alaninda {} yazilir" parameterizedStepValue:"Email alaninda <key> yazilir" parameters:"key"}}
+17-10-2021 13:27:29.808 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:27:29.817 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:27:31.136 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:27:31.136 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:27:37.200 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Email alaninda \"ruffurkan\" yazilir"}
+17-10-2021 13:27:37.202 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Email alaninda {} yazilir" parameterizedStepValue:"Email alaninda <ruffurkan> yazilir" parameters:"ruffurkan"}}
+17-10-2021 13:27:38.434 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Email alaninda \"ruffurkan@\" yazilir"}
+17-10-2021 13:27:38.435 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Email alaninda {} yazilir" parameterizedStepValue:"Email alaninda <ruffurkan@> yazilir" parameters:"ruffurkan@"}}
+17-10-2021 13:27:38.875 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Email alaninda \"ruffurkan@g\" yazilir"}
+17-10-2021 13:27:38.876 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Email alaninda {} yazilir" parameterizedStepValue:"Email alaninda <ruffurkan@g> yazilir" parameters:"ruffurkan@g"}}
+17-10-2021 13:27:39.035 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Email alaninda \"ruffurkan@gö\" yazilir"}
+17-10-2021 13:27:39.035 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Email alaninda {} yazilir" parameterizedStepValue:"Email alaninda <ruffurkan@gö> yazilir" parameters:"ruffurkan@gö"}}
+17-10-2021 13:27:39.857 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Email alaninda \"ruffurkan@gm\" yazilir"}
+17-10-2021 13:27:39.858 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Email alaninda {} yazilir" parameterizedStepValue:"Email alaninda <ruffurkan@gm> yazilir" parameters:"ruffurkan@gm"}}
+17-10-2021 13:27:39.965 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Email alaninda \"ruffurkan@gma\" yazilir"}
+17-10-2021 13:27:39.965 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Email alaninda {} yazilir" parameterizedStepValue:"Email alaninda <ruffurkan@gma> yazilir" parameters:"ruffurkan@gma"}}
+17-10-2021 13:27:40.145 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Email alaninda \"ruffurkan@gmai\" yazilir"}
+17-10-2021 13:27:40.145 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Email alaninda {} yazilir" parameterizedStepValue:"Email alaninda <ruffurkan@gmai> yazilir" parameters:"ruffurkan@gmai"}}
+17-10-2021 13:27:40.327 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Email alaninda \"ruffurkan@gmail\" yazilir"}
+17-10-2021 13:27:40.327 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Email alaninda {} yazilir" parameterizedStepValue:"Email alaninda <ruffurkan@gmail> yazilir" parameters:"ruffurkan@gmail"}}
+17-10-2021 13:27:40.584 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Email alaninda \"ruffurkan@gmail.\" yazilir"}
+17-10-2021 13:27:40.584 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Email alaninda {} yazilir" parameterizedStepValue:"Email alaninda <ruffurkan@gmail.> yazilir" parameters:"ruffurkan@gmail."}}
+17-10-2021 13:27:40.654 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Email alaninda \"ruffurkan@gmail.c\" yazilir"}
+17-10-2021 13:27:40.654 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Email alaninda {} yazilir" parameterizedStepValue:"Email alaninda <ruffurkan@gmail.c> yazilir" parameters:"ruffurkan@gmail.c"}}
+17-10-2021 13:27:41.055 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Email alaninda \"ruffurkan@gmail.co\" yazilir"}
+17-10-2021 13:27:41.055 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Email alaninda {} yazilir" parameterizedStepValue:"Email alaninda <ruffurkan@gmail.co> yazilir" parameters:"ruffurkan@gmail.co"}}
+17-10-2021 13:27:41.280 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Email alaninda \"ruffurkan@gmail.com\" yazilir"}
+17-10-2021 13:27:41.281 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Email alaninda {} yazilir" parameterizedStepValue:"Email alaninda <ruffurkan@gmail.com> yazilir" parameters:"ruffurkan@gmail.com"}}
+17-10-2021 13:27:43.550 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:27:43.560 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:27:44.644 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:27:44.645 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:29:24.598 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Password alaninda <key> yazilir"}
+17-10-2021 13:29:24.599 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Password alaninda {} yazilir" parameterizedStepValue:"Password alaninda <key> yazilir" parameters:"key"}}
+17-10-2021 13:29:42.547 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 13:29:42.548 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 13:29:42.857 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+17-10-2021 13:29:42.858 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Anasayfanin acildigi gorulur" parameterizedStepValue:"Anasayfanin acildigi gorulur"} allSteps:{stepValue:"Giris yap butonuna tiklanir" parameterizedStepValue:"Giris yap butonuna tiklanir"} allSteps:{stepValue:"Login sayfasinin acildigi gorulur" parameterizedStepValue:"Login sayfasinin acildigi gorulur"} allSteps:{stepValue:"Email alaninda {} yazilir" parameterizedStepValue:"Email alaninda <ruffurkan@gmail.com> yazilir" parameters:"ruffurkan@gmail.com"}}
+17-10-2021 13:29:42.858 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+17-10-2021 13:29:42.858 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+17-10-2021 13:29:44.429 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Password alaninda \"key\" yazilir"}
+17-10-2021 13:29:44.429 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Password alaninda {} yazilir" parameterizedStepValue:"Password alaninda <key> yazilir" parameters:"key"}}
+17-10-2021 13:29:45.374 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Password alaninda \"\" yazilir"}
+17-10-2021 13:29:45.375 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Password alaninda {} yazilir" parameterizedStepValue:"Password alaninda <> yazilir" parameters:""}}
+17-10-2021 13:29:50.466 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:29:50.473 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:29:51.690 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:29:51.690 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:30:23.335 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Password alaninda \"f\" yazilir"}
+17-10-2021 13:30:23.335 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Password alaninda {} yazilir" parameterizedStepValue:"Password alaninda <f> yazilir" parameters:"f"}}
+17-10-2021 13:30:23.570 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Password alaninda \"fu\" yazilir"}
+17-10-2021 13:30:23.570 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Password alaninda {} yazilir" parameterizedStepValue:"Password alaninda <fu> yazilir" parameters:"fu"}}
+17-10-2021 13:30:23.702 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Password alaninda \"fur\" yazilir"}
+17-10-2021 13:30:23.703 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Password alaninda {} yazilir" parameterizedStepValue:"Password alaninda <fur> yazilir" parameters:"fur"}}
+17-10-2021 13:30:23.853 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Password alaninda \"furk\" yazilir"}
+17-10-2021 13:30:23.853 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Password alaninda {} yazilir" parameterizedStepValue:"Password alaninda <furk> yazilir" parameters:"furk"}}
+17-10-2021 13:30:23.940 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Password alaninda \"furka\" yazilir"}
+17-10-2021 13:30:23.940 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Password alaninda {} yazilir" parameterizedStepValue:"Password alaninda <furka> yazilir" parameters:"furka"}}
+17-10-2021 13:30:24.043 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Password alaninda \"furkan\" yazilir"}
+17-10-2021 13:30:24.043 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Password alaninda {} yazilir" parameterizedStepValue:"Password alaninda <furkan> yazilir" parameters:"furkan"}}
+17-10-2021 13:30:24.603 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Password alaninda \"furkan3\" yazilir"}
+17-10-2021 13:30:24.604 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Password alaninda {} yazilir" parameterizedStepValue:"Password alaninda <furkan3> yazilir" parameters:"furkan3"}}
+17-10-2021 13:30:24.810 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Password alaninda \"furkan34\" yazilir"}
+17-10-2021 13:30:24.810 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Password alaninda {} yazilir" parameterizedStepValue:"Password alaninda <furkan34> yazilir" parameters:"furkan34"}}
+17-10-2021 13:30:25.095 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Password alaninda \"furkan343\" yazilir"}
+17-10-2021 13:30:25.095 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Password alaninda {} yazilir" parameterizedStepValue:"Password alaninda <furkan343> yazilir" parameters:"furkan343"}}
+17-10-2021 13:30:25.285 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Password alaninda \"furkan3434\" yazilir"}
+17-10-2021 13:30:25.285 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Password alaninda {} yazilir" parameterizedStepValue:"Password alaninda <furkan3434> yazilir" parameters:"furkan3434"}}
+17-10-2021 13:30:27.393 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:30:27.400 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:30:28.565 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:30:28.565 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:32:35.891 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Login buto"}
+17-10-2021 13:32:35.891 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Login buto" parameterizedStepValue:"Login buto"}}
+17-10-2021 13:32:39.082 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Login butonuna tıkla"}
+17-10-2021 13:32:39.083 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Login butonuna tıkla" parameterizedStepValue:"Login butonuna tıkla"}}
+17-10-2021 13:32:41.291 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Login butonuna tiklanir"}
+17-10-2021 13:32:41.291 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Login butonuna tiklanir" parameterizedStepValue:"Login butonuna tiklanir"}}
+17-10-2021 13:32:54.038 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:32:54.045 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:32:55.057 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 13:32:55.057 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 13:32:55.125 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+17-10-2021 13:32:55.125 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Email alaninda {} yazilir" parameterizedStepValue:"Email alaninda <ruffurkan@gmail.com> yazilir" parameters:"ruffurkan@gmail.com"} allSteps:{stepValue:"Password alaninda {} yazilir" parameterizedStepValue:"Password alaninda <furkan3434> yazilir" parameters:"furkan3434"} allSteps:{stepValue:"Anasayfanin acildigi gorulur" parameterizedStepValue:"Anasayfanin acildigi gorulur"} allSteps:{stepValue:"Giris yap butonuna tiklanir" parameterizedStepValue:"Giris yap butonuna tiklanir"} allSteps:{stepValue:"Login sayfasinin acildigi gorulur" parameterizedStepValue:"Login sayfasinin acildigi gorulur"}}
+17-10-2021 13:32:55.126 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+17-10-2021 13:32:55.126 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+17-10-2021 13:32:55.211 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:32:55.212 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:33:06.665 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:33:06.671 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:33:07.841 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:33:07.842 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:37:41.745 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Hesabim "}
+17-10-2021 13:37:41.745 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Hesabim" parameterizedStepValue:"Hesabim"}}
+17-10-2021 13:37:43.957 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Hesabim buto"}
+17-10-2021 13:37:43.958 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Hesabim buto" parameterizedStepValue:"Hesabim buto"}}
+17-10-2021 13:37:46.903 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Hesabim butonuna tiklanir"}
+17-10-2021 13:37:46.904 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Hesabim butonuna tiklanir" parameterizedStepValue:"Hesabim butonuna tiklanir"}}
+17-10-2021 13:38:04.204 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:38:04.213 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:38:05.297 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:38:05.297 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:38:05.375 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+17-10-2021 13:38:05.375 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Email alaninda {} yazilir" parameterizedStepValue:"Email alaninda <ruffurkan@gmail.com> yazilir" parameters:"ruffurkan@gmail.com"} allSteps:{stepValue:"Password alaninda {} yazilir" parameterizedStepValue:"Password alaninda <furkan3434> yazilir" parameters:"furkan3434"} allSteps:{stepValue:"Login butonuna tiklanir" parameterizedStepValue:"Login butonuna tiklanir"} allSteps:{stepValue:"Anasayfanin acildigi gorulur" parameterizedStepValue:"Anasayfanin acildigi gorulur"} allSteps:{stepValue:"Giris yap butonuna tiklanir" parameterizedStepValue:"Giris yap butonuna tiklanir"} allSteps:{stepValue:"Login sayfasinin acildigi gorulur" parameterizedStepValue:"Login sayfasinin acildigi gorulur"}}
+17-10-2021 13:38:05.376 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+17-10-2021 13:38:05.376 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+17-10-2021 13:38:09.615 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:38:09.621 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:38:11.504 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:38:11.505 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:40:07.913 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"E"}
+17-10-2021 13:40:07.913 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"E" parameterizedStepValue:"E"}}
+17-10-2021 13:40:11.723 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Email Alanında "}
+17-10-2021 13:40:11.723 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Email Alanında" parameterizedStepValue:"Email Alanında"}}
+17-10-2021 13:40:15.184 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Email Alanın"}
+17-10-2021 13:40:15.185 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Email Alanın" parameterizedStepValue:"Email Alanın"}}
+17-10-2021 13:40:17.695 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Email Alanının dolu oldu"}
+17-10-2021 13:40:17.695 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Email Alanının dolu oldu" parameterizedStepValue:"Email Alanının dolu oldu"}}
+17-10-2021 13:40:18.958 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Email Alanının dolu oldugu"}
+17-10-2021 13:40:18.959 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Email Alanının dolu oldugu" parameterizedStepValue:"Email Alanının dolu oldugu"}}
+17-10-2021 13:40:20.571 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Email Alanının dolu oldugu gor"}
+17-10-2021 13:40:20.572 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Email Alanının dolu oldugu gor" parameterizedStepValue:"Email Alanının dolu oldugu gor"}}
+17-10-2021 13:40:24.181 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Email Alaninin dolu oldugu gor"}
+17-10-2021 13:40:24.181 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Email Alaninin dolu oldugu gor" parameterizedStepValue:"Email Alaninin dolu oldugu gor"}}
+17-10-2021 13:40:27.817 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Email Alaninin dolu oldugu gorulur"}
+17-10-2021 13:40:27.817 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Email Alaninin dolu oldugu gorulur" parameterizedStepValue:"Email Alaninin dolu oldugu gorulur"}}
+17-10-2021 13:42:57.815 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:42:57.822 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:42:58.756 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+17-10-2021 13:42:58.757 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Login sayfasinin acildigi gorulur" parameterizedStepValue:"Login sayfasinin acildigi gorulur"} allSteps:{stepValue:"Email alaninda {} yazilir" parameterizedStepValue:"Email alaninda <ruffurkan@gmail.com> yazilir" parameters:"ruffurkan@gmail.com"} allSteps:{stepValue:"Password alaninda {} yazilir" parameterizedStepValue:"Password alaninda <furkan3434> yazilir" parameters:"furkan3434"} allSteps:{stepValue:"Login butonuna tiklanir" parameterizedStepValue:"Login butonuna tiklanir"} allSteps:{stepValue:"Hesabim butonuna tiklanir" parameterizedStepValue:"Hesabim butonuna tiklanir"} allSteps:{stepValue:"Anasayfanin acildigi gorulur" parameterizedStepValue:"Anasayfanin acildigi gorulur"} allSteps:{stepValue:"Giris yap butonuna tiklanir" parameterizedStepValue:"Giris yap butonuna tiklanir"}}
+17-10-2021 13:42:58.757 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+17-10-2021 13:42:58.757 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+17-10-2021 13:42:58.902 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:42:58.903 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:43:03.301 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:43:03.307 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:43:04.409 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:43:04.410 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:45:28.747 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama  alaninda <key> yazilir"}
+17-10-2021 13:45:28.747 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama  alaninda {} yazilir" parameterizedStepValue:"Arama  alaninda <key> yazilir" parameters:"key"}}
+17-10-2021 13:45:29.129 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama alaninda <key> yazilir"}
+17-10-2021 13:45:29.129 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama alaninda {} yazilir" parameterizedStepValue:"Arama alaninda <key> yazilir" parameters:"key"}}
+17-10-2021 13:45:55.592 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:45:55.599 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:45:56.347 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 13:45:56.348 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 13:45:56.680 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:45:56.681 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:45:56.697 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+17-10-2021 13:45:56.698 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Giris yap butonuna tiklanir" parameterizedStepValue:"Giris yap butonuna tiklanir"} allSteps:{stepValue:"Login sayfasinin acildigi gorulur" parameterizedStepValue:"Login sayfasinin acildigi gorulur"} allSteps:{stepValue:"Email alaninda {} yazilir" parameterizedStepValue:"Email alaninda <ruffurkan@gmail.com> yazilir" parameters:"ruffurkan@gmail.com"} allSteps:{stepValue:"Password alaninda {} yazilir" parameterizedStepValue:"Password alaninda <furkan3434> yazilir" parameters:"furkan3434"} allSteps:{stepValue:"Login butonuna tiklanir" parameterizedStepValue:"Login butonuna tiklanir"} allSteps:{stepValue:"Hesabim butonuna tiklanir" parameterizedStepValue:"Hesabim butonuna tiklanir"} allSteps:{stepValue:"Email Alaninin dolu oldugu gorulur" parameterizedStepValue:"Email Alaninin dolu oldugu gorulur"} allSteps:{stepValue:"Anasayfanin acildigi gorulur" parameterizedStepValue:"Anasayfanin acildigi gorulur"}}
+17-10-2021 13:45:56.698 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+17-10-2021 13:45:56.698 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+17-10-2021 13:46:00.107 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama alaninda \"key\" yazilir"}
+17-10-2021 13:46:00.108 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama alaninda {} yazilir" parameterizedStepValue:"Arama alaninda <key> yazilir" parameters:"key"}}
+17-10-2021 13:46:01.411 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama alaninda \"p\" yazilir"}
+17-10-2021 13:46:01.412 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama alaninda {} yazilir" parameterizedStepValue:"Arama alaninda <p> yazilir" parameters:"p"}}
+17-10-2021 13:46:01.606 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama alaninda \"pa\" yazilir"}
+17-10-2021 13:46:01.606 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama alaninda {} yazilir" parameterizedStepValue:"Arama alaninda <pa> yazilir" parameters:"pa"}}
+17-10-2021 13:46:02.543 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama alaninda \"pan\" yazilir"}
+17-10-2021 13:46:02.544 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama alaninda {} yazilir" parameterizedStepValue:"Arama alaninda <pan> yazilir" parameters:"pan"}}
+17-10-2021 13:46:02.725 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama alaninda \"pant\" yazilir"}
+17-10-2021 13:46:02.726 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama alaninda {} yazilir" parameterizedStepValue:"Arama alaninda <pant> yazilir" parameters:"pant"}}
+17-10-2021 13:46:02.840 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama alaninda \"panta\" yazilir"}
+17-10-2021 13:46:02.840 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama alaninda {} yazilir" parameterizedStepValue:"Arama alaninda <panta> yazilir" parameters:"panta"}}
+17-10-2021 13:46:03.003 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama alaninda \"pantal\" yazilir"}
+17-10-2021 13:46:03.003 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama alaninda {} yazilir" parameterizedStepValue:"Arama alaninda <pantal> yazilir" parameters:"pantal"}}
+17-10-2021 13:46:03.187 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama alaninda \"pantalo\" yazilir"}
+17-10-2021 13:46:03.188 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama alaninda {} yazilir" parameterizedStepValue:"Arama alaninda <pantalo> yazilir" parameters:"pantalo"}}
+17-10-2021 13:46:03.450 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama alaninda \"pantalon\" yazilir"}
+17-10-2021 13:46:03.451 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama alaninda {} yazilir" parameterizedStepValue:"Arama alaninda <pantalon> yazilir" parameters:"pantalon"}}
+17-10-2021 13:46:07.070 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:46:07.075 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:46:08.160 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:46:08.162 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:48:20.125 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ara yap butonuna tiklanir"}
+17-10-2021 13:48:20.125 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ara yap butonuna tiklanir" parameterizedStepValue:"Ara yap butonuna tiklanir"}}
+17-10-2021 13:48:22.111 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ara butonuna tiklanir"}
+17-10-2021 13:48:22.111 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ara butonuna tiklanir" parameterizedStepValue:"Ara butonuna tiklanir"}}
+17-10-2021 13:48:33.099 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:48:33.108 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:48:34.221 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:48:34.221 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:48:34.383 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 13:48:34.384 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 13:48:34.640 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"A"}
+17-10-2021 13:48:34.640 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"A" parameterizedStepValue:"A"}}
+17-10-2021 13:48:34.647 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+17-10-2021 13:48:34.647 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Anasayfanin acildigi gorulur" parameterizedStepValue:"Anasayfanin acildigi gorulur"} allSteps:{stepValue:"Password alaninda {} yazilir" parameterizedStepValue:"Password alaninda <furkan3434> yazilir" parameters:"furkan3434"} allSteps:{stepValue:"Arama alaninda {} yazilir" parameterizedStepValue:"Arama alaninda <pantalon> yazilir" parameters:"pantalon"} allSteps:{stepValue:"Email Alaninin dolu oldugu gorulur" parameterizedStepValue:"Email Alaninin dolu oldugu gorulur"} allSteps:{stepValue:"Giris yap butonuna tiklanir" parameterizedStepValue:"Giris yap butonuna tiklanir"} allSteps:{stepValue:"Login sayfasinin acildigi gorulur" parameterizedStepValue:"Login sayfasinin acildigi gorulur"} allSteps:{stepValue:"Email alaninda {} yazilir" parameterizedStepValue:"Email alaninda <ruffurkan@gmail.com> yazilir" parameters:"ruffurkan@gmail.com"} allSteps:{stepValue:"Login butonuna tiklanir" parameterizedStepValue:"Login butonuna tiklanir"} allSteps:{stepValue:"Hesabim butonuna tiklanir" parameterizedStepValue:"Hesabim butonuna tiklanir"}}
+17-10-2021 13:48:34.648 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+17-10-2021 13:48:34.648 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+17-10-2021 13:48:34.821 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ar"}
+17-10-2021 13:48:34.821 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ar" parameterizedStepValue:"Ar"}}
+17-10-2021 13:48:34.940 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ara"}
+17-10-2021 13:48:34.941 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ara" parameterizedStepValue:"Ara"}}
+17-10-2021 13:48:37.957 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:48:37.964 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:48:39.082 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:48:39.082 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:52:14.923 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Urunler acildigi gorulur"}
+17-10-2021 13:52:14.923 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Urunler acildigi gorulur" parameterizedStepValue:"Urunler acildigi gorulur"}}
+17-10-2021 13:52:16.327 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Urunler sayfas acildigi gorulur"}
+17-10-2021 13:52:16.328 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Urunler sayfas acildigi gorulur" parameterizedStepValue:"Urunler sayfas acildigi gorulur"}}
+17-10-2021 13:52:17.510 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Urunler sayfasimin acildigi gorulur"}
+17-10-2021 13:52:17.511 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Urunler sayfasimin acildigi gorulur" parameterizedStepValue:"Urunler sayfasimin acildigi gorulur"}}
+17-10-2021 13:52:18.492 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Urunler sayfasinin acildigi gorulur"}
+17-10-2021 13:52:18.493 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Urunler sayfasinin acildigi gorulur" parameterizedStepValue:"Urunler sayfasinin acildigi gorulur"}}
+17-10-2021 13:54:59.960 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:54:59.968 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:54:59.968 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:55:01.078 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:55:01.079 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:55:01.326 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 13:55:01.326 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 13:55:01.544 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"U"}
+17-10-2021 13:55:01.544 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"U" parameterizedStepValue:"U"}}
+17-10-2021 13:55:01.552 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+17-10-2021 13:55:01.552 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Anasayfanin acildigi gorulur" parameterizedStepValue:"Anasayfanin acildigi gorulur"} allSteps:{stepValue:"Email alaninda {} yazilir" parameterizedStepValue:"Email alaninda <ruffurkan@gmail.com> yazilir" parameters:"ruffurkan@gmail.com"} allSteps:{stepValue:"Password alaninda {} yazilir" parameterizedStepValue:"Password alaninda <furkan3434> yazilir" parameters:"furkan3434"} allSteps:{stepValue:"Ara butonuna tiklanir" parameterizedStepValue:"Ara butonuna tiklanir"} allSteps:{stepValue:"Giris yap butonuna tiklanir" parameterizedStepValue:"Giris yap butonuna tiklanir"} allSteps:{stepValue:"Login sayfasinin acildigi gorulur" parameterizedStepValue:"Login sayfasinin acildigi gorulur"} allSteps:{stepValue:"Login butonuna tiklanir" parameterizedStepValue:"Login butonuna tiklanir"} allSteps:{stepValue:"Hesabim butonuna tiklanir" parameterizedStepValue:"Hesabim butonuna tiklanir"} allSteps:{stepValue:"Email Alaninin dolu oldugu gorulur" parameterizedStepValue:"Email Alaninin dolu oldugu gorulur"} allSteps:{stepValue:"Arama alaninda {} yazilir" parameterizedStepValue:"Arama alaninda <pantalon> yazilir" parameters:"pantalon"}}
+17-10-2021 13:55:01.552 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+17-10-2021 13:55:01.553 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+17-10-2021 13:55:01.715 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ur"}
+17-10-2021 13:55:01.715 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ur" parameterizedStepValue:"Ur"}}
+17-10-2021 13:55:01.798 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Uru"}
+17-10-2021 13:55:01.799 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Uru" parameterizedStepValue:"Uru"}}
+17-10-2021 13:55:02.073 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Urun"}
+17-10-2021 13:55:02.073 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Urun" parameterizedStepValue:"Urun"}}
+17-10-2021 13:55:05.617 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:55:05.623 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:55:06.885 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 13:55:06.886 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 21:10:46.019 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+17-10-2021 21:10:46.020 [Gauge] [INFO] Initializing specs cache with 1 specs
+17-10-2021 21:10:46.020 [Gauge] [DEBUG] Adding specs from C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 21:10:46.020 [Gauge] [INFO] Initializing steps cache with 1 steps
+17-10-2021 21:10:46.020 [Gauge] [INFO] Gauge daemon initialized and listening on port: 49454
+17-10-2021 21:10:46.021 [Gauge] [DEBUG] Watching directory: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs
+17-10-2021 21:10:46.021 [Gauge] [DEBUG] Found 1 files
+17-10-2021 21:15:03.844 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Hesabim butonuna tiklanir"}
+17-10-2021 21:15:03.844 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Hesabim butonuna tiklanir" parameterizedStepValue:"Hesabim butonuna tiklanir"}}
+17-10-2021 21:15:04.074 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Anasayfanin acildigi gorulur"}
+17-10-2021 21:15:04.074 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Anasayfanin acildigi gorulur" parameterizedStepValue:"Anasayfanin acildigi gorulur"}}
+17-10-2021 21:15:04.075 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Email Alaninin dolu oldugu gorulur"}
+17-10-2021 21:15:04.076 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Email Alaninin dolu oldugu gorulur" parameterizedStepValue:"Email Alaninin dolu oldugu gorulur"}}
+17-10-2021 21:15:04.076 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Login sayfasinin acildigi gorulur"}
+17-10-2021 21:15:04.077 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Login sayfasinin acildigi gorulur" parameterizedStepValue:"Login sayfasinin acildigi gorulur"}}
+17-10-2021 21:15:04.077 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Email alaninda <key> yazilir"}
+17-10-2021 21:15:04.077 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Email alaninda {} yazilir" parameterizedStepValue:"Email alaninda <key> yazilir" parameters:"key"}}
+17-10-2021 21:15:04.081 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Password alaninda <key> yazilir"}
+17-10-2021 21:15:04.081 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Password alaninda {} yazilir" parameterizedStepValue:"Password alaninda <key> yazilir" parameters:"key"}}
+17-10-2021 21:15:04.082 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Login butonuna tiklanir"}
+17-10-2021 21:15:04.082 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Login butonuna tiklanir" parameterizedStepValue:"Login butonuna tiklanir"}}
+17-10-2021 21:15:04.086 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Giris yap butonuna tiklanir"}
+17-10-2021 21:15:04.087 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Giris yap butonuna tiklanir" parameterizedStepValue:"Giris yap butonuna tiklanir"}}
+17-10-2021 21:15:04.091 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Email alaninda \"ruffurkan@gmail.com\" yazilir"}
+17-10-2021 21:15:04.092 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Email alaninda {} yazilir" parameterizedStepValue:"Email alaninda <ruffurkan@gmail.com> yazilir" parameters:"ruffurkan@gmail.com"}}
+17-10-2021 21:15:04.097 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Password alaninda \"furkan3434\" yazilir"}
+17-10-2021 21:15:04.098 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Password alaninda {} yazilir" parameterizedStepValue:"Password alaninda <furkan3434> yazilir" parameters:"furkan3434"}}
+17-10-2021 21:15:04.102 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama alaninda \"pantalon\" yazilir"}
+17-10-2021 21:15:04.102 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama alaninda {} yazilir" parameterizedStepValue:"Arama alaninda <pantalon> yazilir" parameters:"pantalon"}}
+17-10-2021 21:15:04.102 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Arama alaninda <key> yazilir"}
+17-10-2021 21:15:04.102 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Arama alaninda {} yazilir" parameterizedStepValue:"Arama alaninda <key> yazilir" parameters:"key"}}
+17-10-2021 21:15:04.103 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ara butonuna tiklanir"}
+17-10-2021 21:15:04.103 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ara butonuna tiklanir" parameterizedStepValue:"Ara butonuna tiklanir"}}
+17-10-2021 21:15:04.103 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Urunler sayfasinin acildigi gorulur"}
+17-10-2021 21:15:04.103 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Urunler sayfasinin acildigi gorulur" parameterizedStepValue:"Urunler sayfasinin acildigi gorulur"}}
+17-10-2021 21:35:40.785 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Sayfanin sonuna scroll edilir"}
+17-10-2021 21:35:40.785 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Sayfanin sonuna scroll edilir" parameterizedStepValue:"Sayfanin sonuna scroll edilir"}}
+17-10-2021 21:36:38.181 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 21:36:38.192 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 21:36:39.357 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 21:36:39.362 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 21:36:44.888 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 21:36:44.896 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 21:36:46.544 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 21:36:46.544 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 21:43:57.306 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Sayfa"}
+17-10-2021 21:43:57.306 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Sayfa" parameterizedStepValue:"Sayfa"}}
+17-10-2021 21:44:00.088 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Daha fazla b"}
+17-10-2021 21:44:00.089 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Daha fazla b" parameterizedStepValue:"Daha fazla b"}}
+17-10-2021 21:44:01.761 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Daha fazla butonuna "}
+17-10-2021 21:44:01.761 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Daha fazla butonuna" parameterizedStepValue:"Daha fazla butonuna"}}
+17-10-2021 21:44:03.349 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Daha fazla butonuna tiklanir"}
+17-10-2021 21:44:03.349 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Daha fazla butonuna tiklanir" parameterizedStepValue:"Daha fazla butonuna tiklanir"}}
+17-10-2021 21:44:29.536 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 21:44:29.546 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 21:44:30.431 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"D"}
+17-10-2021 21:44:30.431 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"D" parameterizedStepValue:"D"}}
+17-10-2021 21:44:30.449 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+17-10-2021 21:44:30.450 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Login sayfasinin acildigi gorulur" parameterizedStepValue:"Login sayfasinin acildigi gorulur"} allSteps:{stepValue:"Password alaninda {} yazilir" parameterizedStepValue:"Password alaninda <furkan3434> yazilir" parameters:"furkan3434"} allSteps:{stepValue:"Ara butonuna tiklanir" parameterizedStepValue:"Ara butonuna tiklanir"} allSteps:{stepValue:"Sayfanin sonuna scroll edilir" parameterizedStepValue:"Sayfanin sonuna scroll edilir"} allSteps:{stepValue:"Hesabim butonuna tiklanir" parameterizedStepValue:"Hesabim butonuna tiklanir"} allSteps:{stepValue:"Email Alaninin dolu oldugu gorulur" parameterizedStepValue:"Email Alaninin dolu oldugu gorulur"} allSteps:{stepValue:"Arama alaninda {} yazilir" parameterizedStepValue:"Arama alaninda <pantalon> yazilir" parameters:"pantalon"} allSteps:{stepValue:"Urunler sayfasinin acildigi gorulur" parameterizedStepValue:"Urunler sayfasinin acildigi gorulur"} allSteps:{stepValue:"Anasayfanin acildigi gorulur" parameterizedStepValue:"Anasayfanin acildigi gorulur"} allSteps:{stepValue:"Giris yap butonuna tiklanir" parameterizedStepValue:"Giris yap butonuna tiklanir"} allSteps:{stepValue:"Email alaninda {} yazilir" parameterizedStepValue:"Email alaninda <ruffurkan@gmail.com> yazilir" parameters:"ruffurkan@gmail.com"} allSteps:{stepValue:"Login butonuna tiklanir" parameterizedStepValue:"Login butonuna tiklanir"}}
+17-10-2021 21:44:30.456 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+17-10-2021 21:44:30.457 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+17-10-2021 21:44:30.585 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Da"}
+17-10-2021 21:44:30.585 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Da" parameterizedStepValue:"Da"}}
+17-10-2021 21:44:30.649 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 21:44:30.650 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 21:44:30.826 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Dah"}
+17-10-2021 21:44:30.826 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Dah" parameterizedStepValue:"Dah"}}
+17-10-2021 21:44:30.974 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Daha"}
+17-10-2021 21:44:30.974 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Daha" parameterizedStepValue:"Daha"}}
+17-10-2021 21:44:42.801 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 21:44:42.807 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 21:44:43.935 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 21:44:43.936 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 21:49:51.968 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 21:49:51.977 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 21:49:53.006 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"R"}
+17-10-2021 21:49:53.007 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"R" parameterizedStepValue:"R"}}
+17-10-2021 21:49:53.015 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+17-10-2021 21:49:53.015 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Giris yap butonuna tiklanir" parameterizedStepValue:"Giris yap butonuna tiklanir"} allSteps:{stepValue:"Password alaninda {} yazilir" parameterizedStepValue:"Password alaninda <furkan3434> yazilir" parameters:"furkan3434"} allSteps:{stepValue:"Login butonuna tiklanir" parameterizedStepValue:"Login butonuna tiklanir"} allSteps:{stepValue:"Hesabim butonuna tiklanir" parameterizedStepValue:"Hesabim butonuna tiklanir"} allSteps:{stepValue:"Email Alaninin dolu oldugu gorulur" parameterizedStepValue:"Email Alaninin dolu oldugu gorulur"} allSteps:{stepValue:"Arama alaninda {} yazilir" parameterizedStepValue:"Arama alaninda <pantalon> yazilir" parameters:"pantalon"} allSteps:{stepValue:"Anasayfanin acildigi gorulur" parameterizedStepValue:"Anasayfanin acildigi gorulur"} allSteps:{stepValue:"Email alaninda {} yazilir" parameterizedStepValue:"Email alaninda <ruffurkan@gmail.com> yazilir" parameters:"ruffurkan@gmail.com"} allSteps:{stepValue:"Ara butonuna tiklanir" parameterizedStepValue:"Ara butonuna tiklanir"} allSteps:{stepValue:"Urunler sayfasinin acildigi gorulur" parameterizedStepValue:"Urunler sayfasinin acildigi gorulur"} allSteps:{stepValue:"Sayfanin sonuna scroll edilir" parameterizedStepValue:"Sayfanin sonuna scroll edilir"} allSteps:{stepValue:"Daha fazla butonuna tiklanir" parameterizedStepValue:"Daha fazla butonuna tiklanir"} allSteps:{stepValue:"Login sayfasinin acildigi gorulur" parameterizedStepValue:"Login sayfasinin acildigi gorulur"}}
+17-10-2021 21:49:53.015 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+17-10-2021 21:49:53.016 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+17-10-2021 21:49:53.083 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 21:49:53.084 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 21:49:53.149 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ra"}
+17-10-2021 21:49:53.150 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ra" parameterizedStepValue:"Ra"}}
+17-10-2021 21:49:53.364 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ras"}
+17-10-2021 21:49:53.365 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ras" parameterizedStepValue:"Ras"}}
+17-10-2021 21:50:25.533 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 21:50:25.539 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 21:50:26.736 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 21:50:26.736 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 22:02:54.519 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Secilen urun sepete eklenir"}
+17-10-2021 22:02:54.520 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Secilen urun sepete eklenir" parameterizedStepValue:"Secilen urun sepete eklenir"}}
+17-10-2021 22:03:04.556 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 22:03:04.564 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 22:03:05.674 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 22:03:05.675 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 22:03:05.946 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"S"}
+17-10-2021 22:03:05.947 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"S" parameterizedStepValue:"S"}}
+17-10-2021 22:03:05.952 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+17-10-2021 22:03:05.952 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Password alaninda {} yazilir" parameterizedStepValue:"Password alaninda <furkan3434> yazilir" parameters:"furkan3434"} allSteps:{stepValue:"Arama alaninda {} yazilir" parameterizedStepValue:"Arama alaninda <pantalon> yazilir" parameters:"pantalon"} allSteps:{stepValue:"Daha fazla butonuna tiklanir" parameterizedStepValue:"Daha fazla butonuna tiklanir"} allSteps:{stepValue:"Giris yap butonuna tiklanir" parameterizedStepValue:"Giris yap butonuna tiklanir"} allSteps:{stepValue:"Login butonuna tiklanir" parameterizedStepValue:"Login butonuna tiklanir"} allSteps:{stepValue:"Sayfanin sonuna scroll edilir" parameterizedStepValue:"Sayfanin sonuna scroll edilir"} allSteps:{stepValue:"Anasayfanin acildigi gorulur" parameterizedStepValue:"Anasayfanin acildigi gorulur"} allSteps:{stepValue:"Urunler sayfasinin acildigi gorulur" parameterizedStepValue:"Urunler sayfasinin acildigi gorulur"} allSteps:{stepValue:"Rastgele bir urun secilir" parameterizedStepValue:"Rastgele bir urun secilir"} allSteps:{stepValue:"Login sayfasinin acildigi gorulur" parameterizedStepValue:"Login sayfasinin acildigi gorulur"} allSteps:{stepValue:"Email alaninda {} yazilir" parameterizedStepValue:"Email alaninda <ruffurkan@gmail.com> yazilir" parameters:"ruffurkan@gmail.com"} allSteps:{stepValue:"Hesabim butonuna tiklanir" parameterizedStepValue:"Hesabim butonuna tiklanir"} allSteps:{stepValue:"Email Alaninin dolu oldugu gorulur" parameterizedStepValue:"Email Alaninin dolu oldugu gorulur"} allSteps:{stepValue:"Ara butonuna tiklanir" parameterizedStepValue:"Ara butonuna tiklanir"}}
+17-10-2021 22:03:05.953 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+17-10-2021 22:03:05.953 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+17-10-2021 22:03:06.166 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Se"}
+17-10-2021 22:03:06.166 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Se" parameterizedStepValue:"Se"}}
+17-10-2021 22:03:22.598 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 22:03:22.605 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 22:03:23.670 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 22:03:23.671 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 22:12:13.556 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Secilen urun eklenir"}
+17-10-2021 22:12:13.557 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Secilen urun eklenir" parameterizedStepValue:"Secilen urun eklenir"}}
+17-10-2021 22:12:14.408 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Secilen urunu eklenir"}
+17-10-2021 22:12:14.408 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Secilen urunu eklenir" parameterizedStepValue:"Secilen urunu eklenir"}}
+17-10-2021 22:12:15.838 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Secilen urunun be eklenir"}
+17-10-2021 22:12:15.839 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Secilen urunun be eklenir" parameterizedStepValue:"Secilen urunun be eklenir"}}
+17-10-2021 22:12:16.740 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Secilen urunun eklenir"}
+17-10-2021 22:12:16.740 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Secilen urunun eklenir" parameterizedStepValue:"Secilen urunun eklenir"}}
+17-10-2021 22:12:17.886 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" eklenir"}
+17-10-2021 22:12:17.887 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"eklenir" parameterizedStepValue:"eklenir"}}
+17-10-2021 22:12:20.668 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Urunun bedeni se eklenir"}
+17-10-2021 22:12:20.669 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Urunun bedeni se eklenir" parameterizedStepValue:"Urunun bedeni se eklenir"}}
+17-10-2021 22:12:21.685 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Urunun bedeni secilir eklenir"}
+17-10-2021 22:12:21.686 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Urunun bedeni secilir eklenir" parameterizedStepValue:"Urunun bedeni secilir eklenir"}}
+17-10-2021 22:12:40.063 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 22:12:40.071 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 22:12:40.071 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 22:12:40.428 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:12:40.428 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:12:40.429 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:12:40.429 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:12:40.456 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:12:40.456 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:12:40.457 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:12:40.457 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:12:40.476 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:12:40.476 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:12:40.477 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:12:40.477 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:12:40.477 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:12:40.477 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:12:40.478 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:12:40.478 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:12:40.613 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:12:40.613 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:12:40.614 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:12:40.615 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:12:40.636 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:12:40.636 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:12:40.636 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:12:40.636 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:12:40.662 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:12:40.662 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:12:40.663 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:12:40.664 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:12:40.685 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:12:40.685 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:12:40.685 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:12:40.685 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:12:40.939 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:12:40.939 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:12:40.942 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:12:40.942 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:12:40.942 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:12:40.942 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:12:40.967 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:12:40.967 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:12:40.968 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:12:40.968 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:12:40.987 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:12:40.988 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:12:40.988 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:12:40.988 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:12:41.101 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"B"}
+17-10-2021 22:12:41.101 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"B" parameterizedStepValue:"B"}}
+17-10-2021 22:12:41.105 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+17-10-2021 22:12:41.105 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Password alaninda {} yazilir" parameterizedStepValue:"Password alaninda <furkan3434> yazilir" parameters:"furkan3434"} allSteps:{stepValue:"Urunler sayfasinin acildigi gorulur" parameterizedStepValue:"Urunler sayfasinin acildigi gorulur"} allSteps:{stepValue:"Rastgele bir urun secilir" parameterizedStepValue:"Rastgele bir urun secilir"} allSteps:{stepValue:"Email alaninda {} yazilir" parameterizedStepValue:"Email alaninda <ruffurkan@gmail.com> yazilir" parameters:"ruffurkan@gmail.com"} allSteps:{stepValue:"Hesabim butonuna tiklanir" parameterizedStepValue:"Hesabim butonuna tiklanir"} allSteps:{stepValue:"Sayfanin sonuna scroll edilir" parameterizedStepValue:"Sayfanin sonuna scroll edilir"} allSteps:{stepValue:"Daha fazla butonuna tiklanir" parameterizedStepValue:"Daha fazla butonuna tiklanir"} allSteps:{stepValue:"Anasayfanin acildigi gorulur" parameterizedStepValue:"Anasayfanin acildigi gorulur"} allSteps:{stepValue:"Login butonuna tiklanir" parameterizedStepValue:"Login butonuna tiklanir"} allSteps:{stepValue:"Arama alaninda {} yazilir" parameterizedStepValue:"Arama alaninda <pantalon> yazilir" parameters:"pantalon"} allSteps:{stepValue:"Ara butonuna tiklanir" parameterizedStepValue:"Ara butonuna tiklanir"} allSteps:{stepValue:"Secilen urun sepete eklenir" parameterizedStepValue:"Secilen urun sepete eklenir"} allSteps:{stepValue:"Giris yap butonuna tiklanir" parameterizedStepValue:"Giris yap butonuna tiklanir"} allSteps:{stepValue:"Login sayfasinin acildigi gorulur" parameterizedStepValue:"Login sayfasinin acildigi gorulur"} allSteps:{stepValue:"Email Alaninin dolu oldugu gorulur" parameterizedStepValue:"Email Alaninin dolu oldugu gorulur"}}
+17-10-2021 22:12:41.106 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+17-10-2021 22:12:41.106 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+17-10-2021 22:12:41.179 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 22:12:41.180 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 22:12:41.298 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Be"}
+17-10-2021 22:12:41.299 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Be" parameterizedStepValue:"Be"}}
+17-10-2021 22:12:41.484 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Bed"}
+17-10-2021 22:12:41.484 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Bed" parameterizedStepValue:"Bed"}}
+17-10-2021 22:12:41.588 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Bede"}
+17-10-2021 22:12:41.588 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Bede" parameterizedStepValue:"Bede"}}
+17-10-2021 22:12:41.714 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Beden"}
+17-10-2021 22:12:41.714 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Beden" parameterizedStepValue:"Beden"}}
+17-10-2021 22:12:44.949 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 22:12:44.957 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 22:12:46.051 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 22:12:46.052 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 22:15:14.576 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Sepet butonuna tiklanir"}
+17-10-2021 22:15:14.577 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Sepet butonuna tiklanir" parameterizedStepValue:"Sepet butonuna tiklanir"}}
+17-10-2021 22:15:16.978 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Sepetim butonuna tiklanir"}
+17-10-2021 22:15:16.978 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Sepetim butonuna tiklanir" parameterizedStepValue:"Sepetim butonuna tiklanir"}}
+17-10-2021 22:15:33.632 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 22:15:33.638 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 22:15:33.987 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:15:33.987 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:15:33.990 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:15:33.990 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:15:34.008 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:15:34.009 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:15:34.009 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:15:34.009 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:15:34.034 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:15:34.034 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:15:34.034 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:15:34.034 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:15:34.035 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:15:34.035 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:15:34.035 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:15:34.035 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:15:34.300 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:15:34.301 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:15:34.302 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:15:34.302 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:15:34.302 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:15:34.302 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:15:34.329 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:15:34.329 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:15:34.330 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:15:34.330 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:15:34.355 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:15:34.355 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:15:34.355 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:15:34.355 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:15:34.427 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:15:34.427 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:15:34.428 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:15:34.429 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:15:34.451 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:15:34.451 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:15:34.452 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:15:34.452 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:15:34.476 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:15:34.477 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:15:34.477 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:15:34.477 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:15:34.497 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:15:34.497 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:15:34.498 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:15:34.498 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:15:34.743 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:15:34.744 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:15:34.746 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:15:34.746 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:15:34.746 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:15:34.746 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:15:34.776 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:15:34.776 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:15:34.776 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:15:34.776 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:15:34.792 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 22:15:34.793 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 22:15:34.798 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:15:34.798 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:15:34.799 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:15:34.799 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:15:34.830 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+17-10-2021 22:15:34.830 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Anasayfanin acildigi gorulur" parameterizedStepValue:"Anasayfanin acildigi gorulur"} allSteps:{stepValue:"Sayfanin sonuna scroll edilir" parameterizedStepValue:"Sayfanin sonuna scroll edilir"} allSteps:{stepValue:"Daha fazla butonuna tiklanir" parameterizedStepValue:"Daha fazla butonuna tiklanir"} allSteps:{stepValue:"Email alaninda {} yazilir" parameterizedStepValue:"Email alaninda <ruffurkan@gmail.com> yazilir" parameters:"ruffurkan@gmail.com"} allSteps:{stepValue:"Password alaninda {} yazilir" parameterizedStepValue:"Password alaninda <furkan3434> yazilir" parameters:"furkan3434"} allSteps:{stepValue:"Hesabim butonuna tiklanir" parameterizedStepValue:"Hesabim butonuna tiklanir"} allSteps:{stepValue:"Urunler sayfasinin acildigi gorulur" parameterizedStepValue:"Urunler sayfasinin acildigi gorulur"} allSteps:{stepValue:"Urunun bedeni secilir eklenir" parameterizedStepValue:"Urunun bedeni secilir eklenir"} allSteps:{stepValue:"Giris yap butonuna tiklanir" parameterizedStepValue:"Giris yap butonuna tiklanir"} allSteps:{stepValue:"Email Alaninin dolu oldugu gorulur" parameterizedStepValue:"Email Alaninin dolu oldugu gorulur"} allSteps:{stepValue:"Arama alaninda {} yazilir" parameterizedStepValue:"Arama alaninda <pantalon> yazilir" parameters:"pantalon"} allSteps:{stepValue:"Ara butonuna tiklanir" parameterizedStepValue:"Ara butonuna tiklanir"} allSteps:{stepValue:"Rastgele bir urun secilir" parameterizedStepValue:"Rastgele bir urun secilir"} allSteps:{stepValue:"Secilen urun sepete eklenir" parameterizedStepValue:"Secilen urun sepete eklenir"} allSteps:{stepValue:"Login sayfasinin acildigi gorulur" parameterizedStepValue:"Login sayfasinin acildigi gorulur"} allSteps:{stepValue:"Login butonuna tiklanir" parameterizedStepValue:"Login butonuna tiklanir"}}
+17-10-2021 22:15:34.830 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+17-10-2021 22:15:34.830 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+17-10-2021 22:15:35.221 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Sep"}
+17-10-2021 22:15:35.221 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Sep" parameterizedStepValue:"Sep"}}
+17-10-2021 22:15:35.264 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Sepe"}
+17-10-2021 22:15:35.265 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Sepe" parameterizedStepValue:"Sepe"}}
+17-10-2021 22:15:36.928 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 22:15:36.934 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 22:15:38.433 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 22:15:38.434 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 22:22:27.709 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Sepette"}
+17-10-2021 22:22:27.710 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Sepette" parameterizedStepValue:"Sepette"}}
+17-10-2021 22:22:28.879 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Sepetteki "}
+17-10-2021 22:22:28.879 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Sepetteki" parameterizedStepValue:"Sepetteki"}}
+17-10-2021 22:22:30.695 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Sepetteki fiyat ile "}
+17-10-2021 22:22:30.695 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Sepetteki fiyat ile" parameterizedStepValue:"Sepetteki fiyat ile"}}
+17-10-2021 22:22:35.884 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Sepetteki fiyat ile urun sayfasindaki "}
+17-10-2021 22:22:35.885 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Sepetteki fiyat ile urun sayfasindaki" parameterizedStepValue:"Sepetteki fiyat ile urun sayfasindaki"}}
+17-10-2021 22:22:38.779 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Sepetteki fiyat ile urun sayfasindaki fiyatin aynı oldu"}
+17-10-2021 22:22:38.779 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Sepetteki fiyat ile urun sayfasindaki fiyatin aynı oldu" parameterizedStepValue:"Sepetteki fiyat ile urun sayfasindaki fiyatin aynı oldu"}}
+17-10-2021 22:22:41.750 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Sepetteki fiyat ile urun sayfasindaki fiyatin ayni oldugu "}
+17-10-2021 22:22:41.750 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Sepetteki fiyat ile urun sayfasindaki fiyatin ayni oldugu" parameterizedStepValue:"Sepetteki fiyat ile urun sayfasindaki fiyatin ayni oldugu"}}
+17-10-2021 22:22:43.099 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Sepetteki fiyat ile urun sayfasindaki fiyatin ayni oldugu gorulur"}
+17-10-2021 22:22:43.100 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Sepetteki fiyat ile urun sayfasindaki fiyatin ayni oldugu gorulur" parameterizedStepValue:"Sepetteki fiyat ile urun sayfasindaki fiyatin ayni oldugu gorulur"}}
+17-10-2021 22:23:18.119 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{}
+17-10-2021 22:23:18.120 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{}}
+17-10-2021 22:23:18.169 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+17-10-2021 22:23:18.169 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Password alaninda {} yazilir" parameterizedStepValue:"Password alaninda <furkan3434> yazilir" parameters:"furkan3434"} allSteps:{stepValue:"Urunler sayfasinin acildigi gorulur" parameterizedStepValue:"Urunler sayfasinin acildigi gorulur"} allSteps:{stepValue:"Sayfanin sonuna scroll edilir" parameterizedStepValue:"Sayfanin sonuna scroll edilir"} allSteps:{stepValue:"Rastgele bir urun secilir" parameterizedStepValue:"Rastgele bir urun secilir"} allSteps:{stepValue:"Sepetim butonuna tiklanir" parameterizedStepValue:"Sepetim butonuna tiklanir"} allSteps:{stepValue:"Anasayfanin acildigi gorulur" parameterizedStepValue:"Anasayfanin acildigi gorulur"} allSteps:{stepValue:"Giris yap butonuna tiklanir" parameterizedStepValue:"Giris yap butonuna tiklanir"} allSteps:{stepValue:"Login sayfasinin acildigi gorulur" parameterizedStepValue:"Login sayfasinin acildigi gorulur"} allSteps:{stepValue:"Daha fazla butonuna tiklanir" parameterizedStepValue:"Daha fazla butonuna tiklanir"} allSteps:{stepValue:"Email Alaninin dolu oldugu gorulur" parameterizedStepValue:"Email Alaninin dolu oldugu gorulur"} allSteps:{stepValue:"Secilen urun sepete eklenir" parameterizedStepValue:"Secilen urun sepete eklenir"} allSteps:{stepValue:"Email alaninda {} yazilir" parameterizedStepValue:"Email alaninda <ruffurkan@gmail.com> yazilir" parameters:"ruffurkan@gmail.com"} allSteps:{stepValue:"Login butonuna tiklanir" parameterizedStepValue:"Login butonuna tiklanir"} allSteps:{stepValue:"Hesabim butonuna tiklanir" parameterizedStepValue:"Hesabim butonuna tiklanir"} allSteps:{stepValue:"Arama alaninda {} yazilir" parameterizedStepValue:"Arama alaninda <pantalon> yazilir" parameters:"pantalon"} allSteps:{stepValue:"Ara butonuna tiklanir" parameterizedStepValue:"Ara butonuna tiklanir"} allSteps:{stepValue:"Urunun bedeni secilir eklenir" parameterizedStepValue:"Urunun bedeni secilir eklenir"}}
+17-10-2021 22:23:18.169 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+17-10-2021 22:23:18.169 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+17-10-2021 22:23:30.737 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 22:23:30.743 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 22:23:32.001 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 22:23:32.002 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 22:26:18.151 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Urunun bedeni secilir"}
+17-10-2021 22:26:18.151 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Urunun bedeni secilir" parameterizedStepValue:"Urunun bedeni secilir"}}
+17-10-2021 22:26:38.763 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 22:26:38.769 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 22:26:40.000 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec
+17-10-2021 22:26:40.002 [Gauge] [DEBUG] Spec file added / modified: C:\Users\mstfy\OneDrive\Masaüstü\Furkan\specs\Lcw.spec

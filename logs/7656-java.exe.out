@@ -1,0 +1,33 @@
+Listening for transport dt_socket at address: 51943
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+{"logLevel":"debug","message":"gauge-java took 1382milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 1382"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 60527"}
+{"logLevel":"info","message":"Listening on port:60527"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.IsHomePageDisplayed' and 'org.example.StepImplementation.IsHomePageDisplayed'"}
+{"logLevel":"debug","message":"Found Anasayfanin acildigi gorulur in current project scope."}
+{"logLevel":"debug","message":"Comparing 'Tests.HomePageTest.implementation1' and 'Tests.HomePageTest.implementation1'"}
+{"logLevel":"debug","message":"Found * Anasayfanin acildigi gorulur in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.IsHomePageDisplayed' and 'Tests.HomePageTest.IsHomePageDisplayed'"}
+{"logLevel":"debug","message":"Comparing 'Tests.HomePageTest.IsHomePageDisplayed' and 'Tests.HomePageTest.IsHomePageDisplayed'"}
+{"logLevel":"debug","message":"Found Anasayfanin acildigi gorulur in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\t* Anasayfanin acildigi gorulur : public void implementation1()"}
+{"logLevel":"debug","message":"\tAnasayfanin acildigi gorulur : public void IsHomePageDisplayed()"}
+Starting ChromeDriver 94.0.4606.61 (418b78f5838ed0b1c69bb4e51ea0252171854915-refs/branch-heads/4606@{#1204}) on port 33708
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Eki 17, 2021 1:00:16 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}
